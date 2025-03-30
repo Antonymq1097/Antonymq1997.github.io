@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Antony Moyohuillca Quispe</title>
+    <link rel="stylesheet" href="styles.css"> </head>
+<body>
+    <header>
+        <h1>Antony Moyohuillca Quispe</h1>
+        <p>Desarrollador Web | [Tu Especialización]</p>
+        <nav>
+            <ul>
+                <li><a href="#sobre-mi">Sobre Mí</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+                </ul>
+        </nav>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h2>¡Hola! Soy Antony Moyohuillca Quispe</h2>
+            <p>Un apasionado desarrollador web con experiencia en [menciona tus tecnologías principales].</p>
+            <a href="#contacto" class="button">Contáctame</a>
+        </div>
+    </section>
+
+    <section id="sobre-mi" class="section">
+        <h2>Sobre Mí</h2>
+        <p>Aquí puedes escribir una descripción detallada sobre tu experiencia profesional, tu formación académica, tus habilidades técnicas y blandas, y tus intereses.</p>
+        <ul>
+            <li><strong>Experiencia:</strong> [Detalla tus años de experiencia y roles anteriores]</li>
+            <li><strong>Formación:</strong> [Menciona tus estudios y certificaciones relevantes]</li>
+            <li><strong>Habilidades Técnicas:</strong>
+                <ul>
+                    <li>HTML5</li>
+                    <li>CSS3</li>
+                    <li>JavaScript</li>
+                    <li>[Otros lenguajes o frameworks: React, Angular, Vue.js, Python, etc.]</li>
+                    <li>[Bases de datos: SQL, NoSQL]</li>
+                    <li>[Herramientas de control de versiones: Git]</li>
+                    <li>[Otras habilidades relevantes]</li>
+                </ul>
+            </li>
+            <li><strong>Habilidades Blandas:</strong>
+                <ul>
+                    <li>Comunicación efectiva</li>
+                    <li>Trabajo en equipo</li>
+                    <li>Resolución de problemas</li>
+                    <li>Aprendizaje continuo</li>
+                    <li>[Otras habilidades blandas]</li>
+                </ul>
+            </li>
+            <li><strong>Intereses:</strong> [Menciona tus intereses relacionados con la tecnología o tu campo]</li>
+        </ul>
+        </section>
+
+    <section id="servicios" class="section">
+        <h2>Servicios</h2>
+        <p>Estos son los servicios que ofrezco:</p>
+        <div class="servicio">
+            <h3>Desarrollo de Sitios Web a Medida</h3>
+            <p>Creación de sitios web personalizados y responsivos, adaptados a tus necesidades específicas.</p>
+            <ul>
+                <li>Diseño y maquetación web (HTML, CSS, JavaScript)</li>
+                <li>Desarrollo front-end interactivo</li>
+                <li>Integración de funcionalidades dinámicas</li>
+                <li>Optimización para SEO y rendimiento</li>
+            </ul>
+        </div>
+
+        <div class="servicio">
+            <h3>Desarrollo de Aplicaciones Web</h3>
+            <p>Construcción de aplicaciones web robustas y escalables utilizando las últimas tecnologías.</p>
+            <ul>
+                <li>Desarrollo con [Menciona tus frameworks preferidos: React, Angular, Vue.js]</li>
+                <li>Desarrollo back-end con [Menciona tus lenguajes y frameworks: Python/Django, Node.js/Express]</li>
+                <li>Integración de APIs</li>
+                <li>Despliegue y mantenimiento</li>
+            </ul>
+        </div>
+
+        <div class="servicio">
+            <h3>Mantenimiento y Optimización Web</h3>
+            <p>Servicios para mantener tu sitio web funcionando de manera óptima y segura.</p>
+            <ul>
+                <li>Actualizaciones de contenido y software</li>
+                <li>Corrección de errores y resolución de problemas</li>
+                <li>Optimización de velocidad y rendimiento</li>
+                <li>Implementación de medidas de seguridad</li>
+            </ul>
+        </div>
+
+        </section>
+
+    <section id="contacto" class="section">
+        <h2>Contacto</h2>
+        <p>¡No dudes en ponerte en contacto conmigo! Estoy abierto a nuevas oportunidades y proyectos interesantes.</p>
+        <div class="contacto-info">
+            <h3>Información de Contacto</h3>
+            <ul>
+                <li><strong>Nombre:</strong> Antony Moyohuillca Quispe</li>
+                <li><strong>Email:</strong> <a href="mailto:tu_correo@ejemplo.com">tu_correo@ejemplo.com</a> (Reemplaza con tu correo)</li>
+                <li><strong>Teléfono:</strong> [Tu número de teléfono (opcional)]</li>
+                <li><strong>LinkedIn:</strong> <a href="[Enlace a tu perfil de LinkedIn]" target="_blank">Mi perfil de LinkedIn</a> (Reemplaza con tu enlace)</li>
+                <li><strong>GitHub:</strong> <a href="[Enlace a tu perfil de GitHub]" target="_blank">Mi perfil de GitHub</a> (Reemplaza con tu enlace)</li>
+                <li><strong>Ubicación:</strong> [Tu ciudad/país (opcional)]</li>
+            </ul>
+        </div>
+
+        </section>
+
+    <footer>
+        <p>&copy; 2025 Antony Moyohuillca Quispe. Todos los derechos reservados.</p>
+    </footer>
+
+    </body>
+</html>
